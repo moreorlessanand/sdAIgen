@@ -10,7 +10,7 @@ English | [Русский](README.ru-ru.md)
     <a href="https://discord.gg/eemJdDusvH">
         <img src=".Docs/SVG/en/discord-en.svg" width="800" height="130" alt="discord">
     </a>
-    <a href="https://colab.research.google.com/github/anxety-solo/sdAIgen/blob/main/notebook/ANXETY_sdAIgen_EN.ipynb">
+    <a href="https://colab.research.google.com/github/moreorlessanand/sdAIgen/blob/main/notebook/ANXETY_sdAIgen_EN.ipynb">
         <img src=".Docs/SVG/en/colab-en.svg" width="800" height="160" alt="colab">
     </a>
     <a href="https://www.kaggle.com/code/anxetysolo/sdaigen-en-ipynb">
