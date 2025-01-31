@@ -22,7 +22,7 @@ vae_list = {
 ## CONTROLNET
 
 controlnet_list = {
-    "1. Openpose": [
+    "1. diffusion_pytorch_model": [
         {"url": "https://huggingface.co/xinsir/controlnet-depth-sdxl-1.0/resolve/main/diffusion_pytorch_model.safetensors"}
     ]
 }
